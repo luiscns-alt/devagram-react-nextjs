@@ -10,5 +10,9 @@
   object-fit: cover;
 }
 
+.oculto {
+  display: none !important;
+}
+
 @import '../../public/fonts/fonts.scss';
 @import '../componentes/botao/botao.scss';
